@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTestForCycle", "TaskTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitTest", "AsyncAwaitTest\AsyncAwaitTest.csproj", "{42C072A2-BE0E-4AAA-B0BB-832ABB833A88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskRunTest", "TaskRunTest\TaskRunTest.csproj", "{DF8FEEDC-1094-442B-A461-E273E165956E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{05BFB1CD-4E79-4567-B150-2A7B6C88DF6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{42C072A2-BE0E-4AAA-B0BB-832ABB833A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42C072A2-BE0E-4AAA-B0BB-832ABB833A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42C072A2-BE0E-4AAA-B0BB-832ABB833A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8FEEDC-1094-442B-A461-E273E165956E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8FEEDC-1094-442B-A461-E273E165956E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8FEEDC-1094-442B-A461-E273E165956E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8FEEDC-1094-442B-A461-E273E165956E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BFB1CD-4E79-4567-B150-2A7B6C88DF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BFB1CD-4E79-4567-B150-2A7B6C88DF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BFB1CD-4E79-4567-B150-2A7B6C88DF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BFB1CD-4E79-4567-B150-2A7B6C88DF6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
